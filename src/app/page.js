@@ -1,6 +1,7 @@
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import About from "./components/About";
+import Email from "./components/Email";
 
 export default function Home() {
   return (
@@ -9,6 +10,7 @@ export default function Home() {
       <div className="container mt-36 mx-auto py-4 px-12">
         <Hero />
         <About />
+        <Email />
       </div>
     </main>
   );
