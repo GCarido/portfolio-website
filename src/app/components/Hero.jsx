@@ -13,13 +13,13 @@ const Hero = () => {
                         <br></br>
                         <TypeAnimation
                             sequence={[
-                                'Ken Roger',
+                                'Name Lname',
                                 1000,
-                                'a Web Developer',
+                                'a Web Dev',
                                 1000,
-                                'a Backend Developer',
+                                'a Backend Dev',
                                 1000,
-                                'a UI/UX Designer',
+                                'a Test Test',
                                 1000
                             ]}
                             wrapper="span"
@@ -31,7 +31,7 @@ const Hero = () => {
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut.
                     </p>
                     <div className="grid gap-3 sm:flex sm:gap-0">
-                        <button className="px-6 py-3 rounded-full mr-4 bg-white hover:bg-slate-200 text-black w-full sm:w-fit">Hire Me</button>
+                        <button className="px-6 py-3 rounded-full mr-4 bg-white hover:bg-slate-200 text-black w-full sm:w-fit">Test Tes</button>
                         <button className="px-6 py-3 rounded-full mr-4 bg-transparent hover:bg-slate-800 text-white border border-white w-full sm:w-fit">Download CV</button>
                     </div>
                 </div>
